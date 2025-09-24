@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "01412b9c-8aca-83ae-8aae-0cda93dc74cb",
+  "instructors": {
+    "content": [
+      "38d2d00b-39d5-3c79-d79a-99be1e3dd72a",
+      "4b2e6b0e-85b7-0e52-2a93-b2e1ca107ddf",
+      "5f2a85d4-46f4-b83d-1522-e7accdc290b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2e6c0158-44f1-f7bc-de46-be9fb0a8b4f8",
+    "website": "15-515-financial-accounting-fall-2003"
+  },
+  "course_title": "Financial Accounting",
+  "course_description": "Our goal is to help you develop a framework for understanding financial, managerial, and tax reports. The course goal is divided into five subordinate challenges that can help you organize the way you learn accounting:\n\n1.  The record keeping and reporting challenge\n2.  The computation challenge\n3.  The judgment challenge\n4.  The usage challenge\n5.  The search challenge\n\nThe course adopts a decision-maker perspective of accounting by emphasizing the relation between accounting data and the underlying economic events generating them. Restricted to first-year Sloan MBA students.\n\n##### Acknowledgements\n\nAcknowledgment is hereby given to Professor G. Peter Wilson for his authorship of the following content in this course:\n\n*   The Five Challenges (see Syllabus and Lecture 1)\n*   \"What Do Intel and Accountants Have in Common?\" (see Lecture 1)\n*   A Conceptual Framework for Financial Accounting (see Lecture 1)\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.515",
+  "course_image_thumbnail": {
+    "content": "2f15b943-3411-3f27-8369-13cec70360e5",
+    "website": "15-515-financial-accounting-fall-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "0372f180-0fff-4a43-8d17-232806953d4f",
+  "site_short_id": "15.515-fall-2003",
+  "site_url_path": "courses/15-515-financial-accounting-fall-2003",
+  "title": "Course Metadata"
+}
