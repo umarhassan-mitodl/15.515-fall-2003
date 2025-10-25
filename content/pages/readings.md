@@ -10,7 +10,7 @@ uid: 3e305c25-e9b9-a0d9-8759-71456449cd62
 ---
 The reading assignments listed below are what you should read _before_ coming to class. The class lectures assume this reading has been done, and while you may not completely understand the material you will have a familiarity with the concepts and transactions we will be covering each day. Additional short readings (e.g., recent business press articles) will be distributed in class.
 
-Readings that refer to "Pratt" can be found in the course textbook, J. Pratt, _Financial Accounting in an Economic Context_, 5th ed., John Wiley & Sons, Inc. Other readings are from the Intel 2002 Annual Report, which is available for download from the {{% resource_link "79d3e69f-8183-40b5-9f99-5fdf58a029be" "website" %}}. "CP" stands for the Case Pack of readings that students purchase. (_Note that the CP is not available online to OCW users_.)
+Readings that refer to "Pratt" can be found in the course textbook, J. Pratt, _Financial Accounting in an Economic Context_, 5th ed., John Wiley & Sons, Inc. Other readings are from the Intel 2002 Annual Report, which is available for download from the [website](https://www.intel.cn/content/dam/doc/report/history-2002-annual-report.pdf). "CP" stands for the Case Pack of readings that students purchase. (_Note that the CP is not available online to OCW users_.)
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
