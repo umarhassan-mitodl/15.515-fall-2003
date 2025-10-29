@@ -17,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 
 Text: Pratt, J. _Financial Accounting in an Economic Context._ 5th ed. John Wiley & Sons, Inc. (Hereafter cited as Pratt)
 
-Supplement Material: [Intel Corporation 2001 Annual Report](https://www.intel.com/content/www/us/en/history/history-2001-annual-report.html) distributed in class.
+Supplement Material: {{% resource_link "f09817ec-7e48-4438-94e6-87a3b4738a73" "Intel Corporation 2001 Annual Report" %}} distributed in class.
 
 Case Pack: Includes supplemental readings and cases (hereafter cited to as CP). _Note: the Case Pack is not available online to OCW users, however, the readings are cited on the_ {{% resource_link 3e305c25-e9b9-a0d9-8759-71456449cd62 "Readings" %}} _page._
 
